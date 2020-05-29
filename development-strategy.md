@@ -1,10 +1,11 @@
 # Development Strategy
 
-> `name-of-project`
+> `app-theme`
 
 write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- This is a HTML 5 responsive website.
+-  This project is addressed for the absolute beginners.
+- Good way to Learn the discipline it takes to plan ahead, break your project into small steps, and finish one step completely before moving on.
 
 ## Wireframe
 
@@ -18,36 +19,133 @@ __A User can see my initial repository and live demo__
 
 ### Repo
 
-- Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
+- Generate from [w3-validation-template](https://github.com/HackYourFutureBelgium/w3-validation-template)
+- In this step a basic README has been written
+- The project is live through GitHub Pages
 
-## 1. __
+## 1. Title
 
-__full user story description__
+As a site visitor, I want to know what the web page is called.
 
 ### Repo
 
-what branch(es) did you work on?
+    This user story was developed on a brach called boilerplate-index-header.
+    It was merged to master when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+    A header element with a title describing the web page
+    A navbar contain unordered list with 3 links
 
 ### CSS
 
-what did you change in the CSS and why?
+    Add some flexboxgrid classes for styling. 
 
-## 2. ...
+## 2. overview
 
-...
+As a site visitor, I want to have an overview about this web page.
 
-...
+### Repo
 
-## Finishing Touches
+    This user story was developed on a brach called showcase-features-info-in-index.
+    It was merged to master when the feature was finished.
+
+### HTML
+
+    update index.html page by adding 3 sections showcase , features and info section.
+
+### CSS
+
+    Add some flexboxgrid classes to index.html for styling. 
+    Add some css styling to class container.
+
+## 3. Features and News
+
+As a site visitor, I want to know what features are available in the website. And if it is possible to receive news via email.
+
+### Repo
+
+    This user story was developed on a brach called company-section.
+    It was merged to master when the feature was finished.
+
+### HTML
+
+    add company section contact us about us newsletter
+
+### CSS
+
+    Add some flexboxgrid classes .
+
+## 4. Services
+
+As a site visitor, I want to know what services and technologies are available through the website.
+
+### Repo
+
+    This user story was developed on a brach called footer-and-inner-pages.
+    It was merged to master when the feature was finished.
+
+### HTML
+
+    add html code of 3 pages about, services and contact and add also footer element.
+
+### CSS
+
+    Add some flexboxgrid classes for aligning purpose.
+
+# 5. Layout
+
+As a developer, I want to set the css style for the index page
+
+### Repo
+
+    This user story was developed on a brach called index-styling.
+    It was merged to master when the feature was finished.
+
+### HTML
+
+    No html added
+
+### CSS
+
+# 6. About
+
+As a site visitor, I want to know in details what this website about.
+
+### Repo
+
+    This user story was developed on a brach called inner-pages-styling.
+    It was merged to master when the feature was finished.
+
+### HTML
+
+   Some flexboxgrid
+
+### CSS
+
+    Add some flexboxgrid classes and styling to other pages.
+
+ ### 7. About
+
+As a site developer , I want my website to be responsive.
+
+### Repo
+
+    This user story was developed on a brach called media-query.
+    It was merged to master when the feature was finished.
+
+### HTML
+
+  No html added.
+
+### CSS
+  
+    Add some media queries.
+
+### 8. Finishing Touches
 
 - Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+ 
 - Validate code to check for any last mistakes
+
+- Update developement-strategy md file
