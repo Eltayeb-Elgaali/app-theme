@@ -23,7 +23,7 @@ This project provided by Traversy Media.
 > This project use [w3-validation-template](https://github.com/HackYourFutureBelgium/w3-validation-template)
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./images/screenshot.png)
 
 ## Technologies
 * HTML5

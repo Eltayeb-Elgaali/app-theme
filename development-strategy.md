@@ -11,7 +11,7 @@ write a short description of your project:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](./images/wireframe.gif)
 
 ## 0. Set-Up
 
@@ -93,7 +93,7 @@ As a site visitor, I want to know what services and technologies are available t
 
     Add some flexboxgrid classes for aligning purpose.
 
-# 5. Layout
+## 5. Layout
 
 As a developer, I want to set the css style for the index page
 
@@ -107,8 +107,9 @@ As a developer, I want to set the css style for the index page
     No html added
 
 ### CSS
+    add styling to index home page
 
-# 6. About
+## 6. About
 
 As a site visitor, I want to know in details what this website about.
 
@@ -119,15 +120,15 @@ As a site visitor, I want to know in details what this website about.
 
 ### HTML
 
-   Some flexboxgrid
+    Some flexboxgrid classes
 
 ### CSS
 
     Add some flexboxgrid classes and styling to other pages.
 
- ### 7. About
+ ## 7. Responsive
 
-As a site developer , I want my website to be responsive.
+As a web developer , I want my website to be responsive.
 
 ### Repo
 
@@ -136,16 +137,39 @@ As a site developer , I want my website to be responsive.
 
 ### HTML
 
-  No html added.
+    No html added.
 
 ### CSS
   
     Add some media queries.
 
-### 8. Finishing Touches
+## 8. Finishing Touches
 
 - Write final, complete README:
  
 - Validate code to check for any last mistakes
 
 - Update developement-strategy md file
+
+### HTML
+
+    No html added.
+
+### CSS
+  
+    Add some icons style and fix some validation errors.
+
+## 9. Last Updates
+
+- Last Update README:
+ 
+- Last Update developement-strategy md file
+
+### HTML
+
+    No html added.
+
+### CSS
+  
+    No css added
+
